@@ -19,7 +19,7 @@ var songs = [
       "id": 3,
       "name": "B2b",
       "image": "brat.jpeg",
-      "color": "#000000",
+      "color": "#69ff00",
       "link": "https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4?si=3e03ff7456e14805"
     }
   ];
